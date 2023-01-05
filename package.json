@@ -1,0 +1,15 @@
+{
+  "name": "molax-test-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "molax": "^1.0.4"
+  }
+}
