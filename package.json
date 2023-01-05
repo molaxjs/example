@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "molax": "^1.0.4"
+    "molax": "^1.0.5"
   }
 }
